@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<body>
+<html>
+
+<h1>Knowledge is POWER!!!</h1>
+
+<p>With git you are enable to pull request, commit and merge,
+this makes it easier for your work to be online.</p>
+
+<ul>
+
+<li>you git add (file name)</li> 
+<li>git status</li>
+ <li>git commit -m 'file text'</li>
+   <li>git push origin master</li>
+ <li>your github username;</li> 
+<li>password.</li>
+
+     <li>N.B; your password won't be visible when typing it, but is working
+
+  <li>and AWESOME!!!! your work is uploade onlne and can be viewed by anyone.</li>
+</ul> 
+
+
+</html>
+</body>  
